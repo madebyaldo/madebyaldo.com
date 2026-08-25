@@ -1,0 +1,23 @@
+/* Color Tokens from Framer */
+:root {
+  /* Primary Colors */
+  --color-black: rgb(0, 0, 0);
+  --color-white: rgb(255, 255, 255);
+  --color-dark-gray: rgba(30, 37, 31, 0.5);
+  --color-light-beige: rgb(243, 242, 239);
+  --color-light-beige-50: rgba(243, 242, 239, 0.5);
+  --color-light-beige-40: rgba(243, 242, 239, 0.4);
+  --color-yellow-green: rgb(228, 235, 121);
+  --color-gray: #BEBCB4;
+  
+  /* Framer Token Mappings (for reference) */
+  --token-2c7a2a12-7654-44a7-85c6-7da110da1f0f: var(--color-black);
+  --token-17d9c115-16bf-4e1f-893a-3be1f2d0a121: var(--color-dark-gray);
+  --token-b7e9823b-d137-4776-a949-0797e34c9236: var(--color-light-beige);
+  --token-3ea716a4-8545-4838-8dd3-f5927813fc02: var(--color-white);
+  --token-a81ad0d2-fa1c-4c47-951d-f60b09a7a456: var(--color-yellow-green);
+  --token-c6b79f5b-b182-43d4-aa14-88f05598e6cd: var(--color-light-beige-50);
+  --token-829889a5-ec68-4f0d-89b4-6edb7becaf6d: var(--color-light-beige-40);
+  --token-9bd6463b-b11a-487a-89bf-a33a08a023c8: var(--color-gray);
+}
+
